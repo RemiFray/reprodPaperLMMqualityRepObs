@@ -17,6 +17,10 @@ bias_plan <- data.frame(N = rep(N_test, each = length(l_test)*length(alpha_test)
                         a = rep(rep(alpha_test, each = length(l_test)), length(N_test)),
                         l = rep(rep(l_test, length(alpha_test)), length(N_test)))
 
+dtaDir <- paste0("./data/Mla_Simul_S",S)
+if(!file.exists(dtaDir)) dir.create(dtaDir, recursive = TRUE)
+
+
 # ------- Big loop ------ ----
 
 

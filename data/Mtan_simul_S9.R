@@ -41,6 +41,10 @@ for(i in 1:nrow(bias_plan)){
   else bias_plan$a50[i] <- l[1, 8]
 }
 
+dtaDir <- paste0("./data/LMMq_Simul_S",S)
+if(!file.exists(dtaDir)) dir.create(dtaDir, recursive = TRUE)
+
+
 # ------- Big loop ------ ----
 
 
