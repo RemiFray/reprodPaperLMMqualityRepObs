@@ -4,7 +4,7 @@ library(EnvStats)
 
 # ----- Functions, samplers, distrib and model ----- ----
 
-source("./functions/LMMqPA_Pt_functions.R")
+source("./functions/LMMq_Pt_functions.R")
 
 # ----- Parameters ----- ----
 
