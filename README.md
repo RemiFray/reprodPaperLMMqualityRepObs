@@ -9,7 +9,7 @@ The instructions are given below.
 First generate the simulation data. In the folder "data" are 6 scripts to generate data according to models $M_{t, \alpha_n}$ or $M_{\lambda, \alpha}$ for the different numbers of occasion.
 Simply run the scripts in any order.
 
-The otter data from the study *Non-Invasive Genetic Mark-Recapture as a Means to Study Population Sizes and Marking Behaviour of the Elusive Eurasian Otter (Lutra lutra)* ([paper DOI][https://doi.org/10.1371/journal.pone.0125684]), available in a pdf ([data DOI][https://doi.org/10.1371/journal.pone.0125684.s002]) and are also in the otter.csv in the data folder.
+The otter data from the study *Non-Invasive Genetic Mark-Recapture as a Means to Study Population Sizes and Marking Behaviour of the Elusive Eurasian Otter (Lutra lutra)* ([paper DOI](https://doi.org/10.1371/journal.pone.0125684)), available in a pdf ([data DOI](https://doi.org/10.1371/journal.pone.0125684.s002)) and are also in the otter.csv in the data folder.
 
 
 ## Run the models
