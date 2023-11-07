@@ -3,6 +3,10 @@
 This repository contains all the material needed to reproduce the results from the paper.
 The instructions are given below.
 
+## Opening the project
+
+Once you have cloned or downloaded extracted the folder, **open the project through the .Rproj file**. The working directory, will be automatically defined as the folder containing it. That way code lines using file paths should work without modifying any code.
+
 
 ## Data
 
